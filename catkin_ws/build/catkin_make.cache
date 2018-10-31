@@ -1,0 +1,2 @@
+PioneerModel/p3dx_control:PioneerModel/p3dx_description:PioneerModel/p3dx_gazebo:square_demo
+-DCATKIN_DEVEL_PREFIX=/home/jd/F2018-HW1/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jd/F2018-HW1/catkin_ws/install -G Unix Makefiles
